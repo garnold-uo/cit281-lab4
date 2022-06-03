@@ -1,3 +1,8 @@
+/*
+    CIT 281 Lab 4
+    Name: Garrett Arnold
+*/
+
 // Require the Fastify framework and instantiate it
 const fastify = require("fastify")();
 // Handle GET verb for / route using Fastify
